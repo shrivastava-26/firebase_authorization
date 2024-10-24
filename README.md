@@ -1,5 +1,5 @@
 
-## Firebase Authorization
+## Firebase 🧑‍💻
 
 This project demonstrates how to implement user authentication using Firebase Authentication. It provides an overview of the setup process, code snippets, and usage instructions.
 
